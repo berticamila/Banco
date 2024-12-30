@@ -40,7 +40,7 @@ Este sistema bancário oferece as seguintes funcionalidades:
 
 1.Clone o Repositório:
 ```
-git clone [URL_do_repositório]
+git clone [https://github.com/berticamila/Banco]
 ```
 
 2.Compile e Execute a Classe (Banco):
